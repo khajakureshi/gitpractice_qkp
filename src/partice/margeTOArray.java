@@ -1,5 +1,5 @@
 package partice;
-
+//this is merge to number
 public class margeTOArray {
 
 	public static void main(String[] args) {
